@@ -11,4 +11,4 @@ This project utilizes the face_recognition library and a pre-trained deep learni
 ## How to Use:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/real-time-age-detection.git
+   git clone https://github.com/sach6781/real-time-age-detection.git
